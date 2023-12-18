@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 林棋竣
+title: Chyi-Jiunn Lin
 
 # Name pronunciation (optional)
-name_pronunciation: Chyi-Jiunn Lin
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Chyi-Jiunn
@@ -21,8 +21,8 @@ role: Research Assistant of Speech / NLP
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: National Taiwan University
-%    url: https://www.stanford.edu/
+  - name: NTU SPML Lab
+    url: https://twitter.com/ntu_spml
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include speech processing, natural language processing and machine learning.
@@ -37,9 +37,10 @@ interests:
 education:
   courses:
     - course: BS in Electrical Engineering
-      institution: National Taiwan University
-      year: 2023
+      institution: 'GPA: 4.28/4.30 | Rank: 1/189'
+      year: NTU
 
+#institution: GPA: 4.28/4.30  Rank:1/189
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
@@ -87,32 +88,33 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: 'mailto:b08901060@ntu.edu.tw'
+    #link: '/#contact'
+#  - icon: twitter
+#    icon_pack: fab
+#    link: https://twitter.com/GeorgeCushen
+#    label: Follow me on Twitter
+#    display:
+#      header: true
+#  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+#    icon_pack: fas
+#    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/eric102004
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/ericlin102004/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/CV.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Chyi-Jiunn Lin received the Bachelor degree from National Taiwan University (NTU) in 2023, and is now a research assistant supervised by Hung-yi Lee and Lin-shan Lee at Speech Processing and Machine Learning Laboratory, National Taiwan University. His research interests include question answering, information retrieval, spoken language understanding, and speech synthesis.
 {style="text-align: justify;"}
