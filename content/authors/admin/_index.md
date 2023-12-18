@@ -116,5 +116,5 @@ social:
 highlight_name: true
 ---
 
-Chyi-Jiunn Lin received the Bachelor degree from National Taiwan University (NTU) in 2023, and is now a research assistant supervised by Hung-yi Lee and Lin-shan Lee at Speech Processing and Machine Learning Laboratory, National Taiwan University. His research interests include question answering, information retrieval, spoken language understanding, and speech synthesis.
+I received the Bachelor degree from National Taiwan University (NTU) in 2023, and am now a research assistant supervised by Hung-yi Lee and Lin-shan Lee at Speech Processing and Machine Learning Laboratory, National Taiwan University. My research interests include question answering, information retrieval, spoken language understanding, and speech synthesis.
 {style="text-align: justify;"}
