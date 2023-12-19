@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Research Assistant of Speech / NLP
+role: Research Assistant in Speech / NLP
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -25,10 +25,14 @@ organizations:
     url: https://twitter.com/ntu_spml
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include speech processing, natural language processing and machine learning.
+bio: Looking for a PhD position in speech processing, natural language processing and machine learning.
 
 # Interests to show in About widget
 interests:
+  - Spoken Language Understanding
+  - Question Answering
+  - Information Retrieval
+  - Speech Synthesis
   - Speech Processing
   - Natural Language Processing
   - Machine Learning
@@ -40,7 +44,6 @@ education:
       institution: 'GPA: 4.28/4.30 | Rank: 1/189'
       year: NTU
 
-#institution: GPA: 4.28/4.30  Rank:1/189
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
@@ -116,5 +119,5 @@ social:
 highlight_name: true
 ---
 
-I received the Bachelor degree from National Taiwan University (NTU) in 2023, and am now a research assistant supervised by Hung-yi Lee and Lin-shan Lee at Speech Processing and Machine Learning Laboratory, National Taiwan University. My research interests include question answering, information retrieval, spoken language understanding, and speech synthesis.
+I received the Bachelor degree from National Taiwan University (NTU) in 2023, and currently work as a research assistant supervised by Hung-yi Lee and Lin-shan Lee at Speech Processing and Machine Learning Laboratory, National Taiwan University. **I am looking for a PhD position in speech processing, natural language processing and machine learning.**
 {style="text-align: justify;"}
