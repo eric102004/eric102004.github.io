@@ -45,15 +45,15 @@ sections:
 
 
 
-  - block: markdown
-    id: 1m_intro
-    content:
-      title: 1 Minute Self Introduction
-      subtitle: ''
-      text: |-
-          {{< youtube Qnd31cF1r24>}}
-    design:
-      columns: '1'
+#  - block: markdown
+#    id: 1m_intro
+#    content:
+#      title: 1 Minute Self Introduction
+#      subtitle: ''
+#      text: |-
+#          {{< youtube Qnd31cF1r24>}}
+#    design:
+#      columns: '1'
 
 
   - block: experience
