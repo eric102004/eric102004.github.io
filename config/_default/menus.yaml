@@ -7,9 +7,9 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: 1m Self Introduction
-    url: '#1m_intro'
-    weight: 15
+#  - name: 1m Self Introduction
+#    url: '#1m_intro'
+#    weight: 15
   - name: Experience
     url: '#experience'
     weight: 20
