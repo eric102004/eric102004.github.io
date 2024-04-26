@@ -25,7 +25,7 @@ organizations:
     url: https://twitter.com/ntu_spml
 
 # Short bio (displayed in user profile at end of posts)
-bio: Looking for a PhD position in speech processing, natural language processing and machine learning.
+bio:
 
 # Interests to show in About widget
 interests:
@@ -119,5 +119,5 @@ social:
 highlight_name: true
 ---
 
-I received the Bachelor degree from National Taiwan University (NTU) in 2023, and currently work as a research assistant supervised by Hung-yi Lee and Lin-shan Lee at Speech Processing and Machine Learning Laboratory, National Taiwan University. **I am looking for a PhD position in speech processing, natural language processing and machine learning.**
+I received the Bachelor degree from National Taiwan University (NTU) in 2023, and currently work as a research assistant advised by Hung-yi Lee and Lin-shan Lee at Speech Processing and Machine Learning Laboratory, National Taiwan University. I am starting as a master student advised by Prof. Shinji Watanabe at Language Technologies Institute, Carnegie Mellon University in August 2024.
 {style="text-align: justify;"}
